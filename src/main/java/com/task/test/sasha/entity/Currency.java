@@ -22,5 +22,9 @@ public class Currency {
     @Field("price_precision")
     private int pricePrecision;
 
-    private double price;
+    @Field("min_price")
+    private double minPrice;
+
+    @Field("max_price")
+    private double maxPrice;
 }

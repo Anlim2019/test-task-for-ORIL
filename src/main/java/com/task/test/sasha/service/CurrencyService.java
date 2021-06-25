@@ -45,7 +45,7 @@ public class CurrencyService {
         query.addCriteria(Criteria.where("name").is(name).
                 and("price").is(repository.findAll().
                 stream().min
-                (Comparator.comparing(Currency::getPrice))));
+                (Comparator.comparing(Currency::getMinPrice))));
 
         return mongoTemplate.findOne(query, Currency.class);
     }
@@ -58,14 +58,14 @@ public class CurrencyService {
         query.addCriteria(Criteria.where("name").is(name).
                 and("price").is(repository.findAll().
                         stream().max
-                        (Comparator.comparing(Currency::getPrice))));
+                        (Comparator.comparing(Currency::getMaxPrice))));
 
         return mongoTemplate.findOne(query, Currency.class);
     }
 
     public List<Currency> findSelectedPageWithSelectedNumbers(int page, int size) {
         return pageRepository.findAll(PageRequest.of(page, size)).
-                stream().sorted(Comparator.comparingDouble(Currency::getPrice)).
+                stream().sorted(Comparator.comparingDouble(Currency::getMinPrice)).
                 collect(Collectors.toList());
     }
 
