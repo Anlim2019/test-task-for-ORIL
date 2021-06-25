@@ -1,0 +1,1916 @@
+{
+  "pairs": [
+    {
+      "symbol1": "BTC",
+      "symbol2": "USD",
+      "pricePrecision": "1",
+      "minLotSize": 0.0004,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "3500",
+      "maxPrice": "350000"
+    },
+    {
+      "symbol1": "ETH",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 0.003,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "26.41",
+      "maxPrice": "10000"
+    },
+    {
+      "symbol1": "BCH",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 0.02,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "43.40",
+      "maxPrice": "8192"
+    },
+    {
+      "symbol1": "DASH",
+      "symbol2": "USD",
+      "pricePrecision": "3",
+      "minLotSize": 0.065,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "12.98",
+      "maxPrice": "4096"
+    },
+    {
+      "symbol1": "LTC",
+      "symbol2": "USD",
+      "pricePrecision": "3",
+      "minLotSize": 0.0543685,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "7.73",
+      "maxPrice": "2048"
+    },
+    {
+      "symbol1": "XRP",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 11,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0347",
+      "maxPrice": "10"
+    },
+    {
+      "symbol1": "XLM",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 32,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.002",
+      "maxPrice": "10"
+    },
+    {
+      "symbol1": "OMG",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 2.243589,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.11",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "MHC",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 650,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0004",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "TRX",
+      "symbol2": "USD",
+      "pricePrecision": "6",
+      "minLotSize": 200,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0023",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "BTT",
+      "symbol2": "USD",
+      "pricePrecision": "7",
+      "minLotSize": 3527.44351,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.000044",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "ADA",
+      "symbol2": "USD",
+      "pricePrecision": "6",
+      "minLotSize": 5.606041,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0062",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "NEO",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 0.240137,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "1.35",
+      "maxPrice": "181.6348"
+    },
+    {
+      "symbol1": "GAS",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 1.83727034,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.2090",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "BAT",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 10,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.028",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "ATOM",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 1.2,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.3968",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "XTZ",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 2.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.3158",
+      "maxPrice": "50"
+    },
+
+
+    {
+      "symbol1": "BCH",
+      "symbol2": "EUR",
+      "pricePrecision": "2",
+      "minLotSize": 0.02,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "39.52",
+      "maxPrice": "8192"
+    },
+    {
+      "symbol1": "DASH",
+      "symbol2": "EUR",
+      "pricePrecision": "3",
+      "minLotSize": 0.065,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "11.81",
+      "maxPrice": "4096"
+    },
+
+    {
+      "symbol1": "XLM",
+      "symbol2": "EUR",
+      "pricePrecision": "5",
+      "minLotSize": 32,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0074",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "OMG",
+      "symbol2": "EUR",
+      "pricePrecision": "5",
+      "minLotSize": 1.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0939",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "MHC",
+      "symbol2": "EUR",
+      "pricePrecision": "4",
+      "minLotSize": 650,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0004",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "TRX",
+      "symbol2": "EUR",
+      "pricePrecision": "6",
+      "minLotSize": 200,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0021",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "BTT",
+      "symbol2": "EUR",
+      "pricePrecision": "7",
+      "minLotSize": 3527.44351,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.000045",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "LTC",
+      "symbol2": "EUR",
+      "pricePrecision": "3",
+      "minLotSize": 0.08,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "7.05",
+      "maxPrice": "2048.00"
+    },
+    {
+      "symbol1": "ADA",
+      "symbol2": "EUR",
+      "pricePrecision": "6",
+      "minLotSize": 5.606041,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0056",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "NEO",
+      "symbol2": "EUR",
+      "pricePrecision": "4",
+      "minLotSize": 0.240137,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "1.25",
+      "maxPrice": "150"
+    },
+    {
+      "symbol1": "GAS",
+      "symbol2": "EUR",
+      "pricePrecision": "4",
+      "minLotSize": 1.83727034,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1900",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "BAT",
+      "symbol2": "EUR",
+      "pricePrecision": "5",
+      "minLotSize": 10,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.02588",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "ATOM",
+      "symbol2": "EUR",
+      "pricePrecision": "4",
+      "minLotSize": 1.2,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "XTZ",
+      "symbol2": "EUR",
+      "pricePrecision": "4",
+      "minLotSize": 2.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.2906",
+      "maxPrice": "50"
+    },
+
+
+    {
+      "symbol1": "BCH",
+      "symbol2": "GBP",
+      "pricePrecision": "2",
+      "minLotSize": 0.02,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "43.42",
+      "maxPrice": "8192"
+    },
+    {
+      "symbol1": "MHC",
+      "symbol2": "GBP",
+      "pricePrecision": "4",
+      "minLotSize": 650,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0004",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "LTC",
+      "symbol2": "GBP",
+      "pricePrecision": "3",
+      "minLotSize": 0.08,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "6.30",
+      "maxPrice": "2048.00"
+    },
+
+    {
+      "symbol1": "ADA",
+      "symbol2": "GBP",
+      "pricePrecision": "6",
+      "minLotSize": 5.606041,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.005",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "NEO",
+      "symbol2": "GBP",
+      "pricePrecision": "4",
+      "minLotSize": 0.240137,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "1.12",
+      "maxPrice": "150"
+    },
+    {
+      "symbol1": "GAS",
+      "symbol2": "GBP",
+      "pricePrecision": "4",
+      "minLotSize": 1.83727034,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1710",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "ATOM",
+      "symbol2": "GBP",
+      "pricePrecision": "4",
+      "minLotSize": 1.2,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.3287",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "BAT",
+      "symbol2": "GBP",
+      "pricePrecision": "5",
+      "minLotSize": 10,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.02321",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "XTZ",
+      "symbol2": "GBP",
+      "pricePrecision": "4",
+      "minLotSize": 2.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.2671",
+      "maxPrice": "50"
+    },
+
+
+
+    {
+      "symbol1": "BCH",
+      "symbol2": "BTC",
+      "pricePrecision": "6",
+      "minLotSize": 0.02,
+      "minLotSizeS2": 0.0002,
+      "maxLotSize": null,
+      "minPrice": "0.004801",
+      "maxPrice": "2"
+    },
+    {
+      "symbol1": "DASH",
+      "symbol2": "BTC",
+      "pricePrecision": "6",
+      "minLotSize": 0.065,
+      "minLotSizeS2": 0.0002,
+      "maxLotSize": null,
+      "minPrice": "0.0002",
+      "maxPrice": "2"
+    },
+    {
+      "symbol1": "LTC",
+      "symbol2": "BTC",
+      "pricePrecision": "8",
+      "minLotSize": 0.08,
+      "minLotSizeS2": 0.0002,
+      "maxLotSize": null,
+      "minPrice": "0.0004",
+      "maxPrice": "0.33"
+    },
+
+    {
+      "symbol1": "XLM",
+      "symbol2": "BTC",
+      "pricePrecision": "8",
+      "minLotSize": 32,
+      "minLotSizeS2": 0.0002,
+      "maxLotSize": null,
+      "minPrice": "0.0000005",
+      "maxPrice": "0.0005"
+    },
+    {
+      "symbol1": "OMG",
+      "symbol2": "BTC",
+      "pricePrecision": "8",
+      "minLotSize": 1.5,
+      "minLotSizeS2": 0.0002,
+      "maxLotSize": null,
+      "minPrice": "0.00001585",
+      "maxPrice": "0.01"
+    },
+    {
+      "symbol1": "GUSD",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 8,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1983",
+      "maxPrice": "2"
+    },
+    {
+      "symbol1": "ONT",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 12,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0724",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "ONG",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 14.059612,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0165",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "GUSD",
+      "symbol2": "EUR",
+      "pricePrecision": "4",
+      "minLotSize": 8,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.2155",
+      "maxPrice": "2"
+    },
+    {
+      "symbol1": "ONT",
+      "symbol2": "EUR",
+      "pricePrecision": "4",
+      "minLotSize": 12,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0603",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "ONG",
+      "symbol2": "EUR",
+      "pricePrecision": "5",
+      "minLotSize": 14.059612,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0177",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "MHC",
+      "symbol2": "BTC",
+      "pricePrecision": "8",
+      "minLotSize": 650,
+      "minLotSizeS2": 0.0002,
+      "maxLotSize": null,
+      "minPrice": "0.00000001",
+      "maxPrice": "0.001"
+    },
+    {
+      "symbol1": "MHC",
+      "symbol2": "ETH",
+      "pricePrecision": "8",
+      "minLotSize": 650,
+      "minLotSizeS2": 0.003,
+      "maxLotSize": null,
+      "minPrice": "0.0000005",
+      "maxPrice": "0.01"
+    },
+    {
+      "symbol1": "TRX",
+      "symbol2": "BTC",
+      "pricePrecision": "8",
+      "minLotSize": 200,
+      "minLotSizeS2": 0.0002,
+      "maxLotSize": null,
+      "minPrice": "0.00000008",
+      "maxPrice": "0.001"
+    },
+    {
+      "symbol1": "BTT",
+      "symbol2": "BTC",
+      "pricePrecision": "8",
+      "minLotSize": 3527.44351,
+      "minLotSizeS2": 0.0002,
+      "maxLotSize": null,
+      "minPrice": "0.00000001",
+      "maxPrice": "0.0001"
+    },
+    {
+      "symbol1": "ONT",
+      "symbol2": "BTC",
+      "pricePrecision": "8",
+      "minLotSize": 12,
+      "minLotSizeS2": 0.0002,
+      "maxLotSize": null,
+      "minPrice": "0.000001",
+      "maxPrice": "0.01"
+    },
+    {
+      "symbol1": "ONG",
+      "symbol2": "BTC",
+      "pricePrecision": "8",
+      "minLotSize": 14.059612,
+      "minLotSizeS2": 0.0002,
+      "maxLotSize": null,
+      "minPrice": "0.0000005",
+      "maxPrice": "0.001"
+    },
+    {
+      "symbol1": "USDT",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.3",
+      "maxPrice": "3"
+    },
+    {
+      "symbol1": "USDT",
+      "symbol2": "EUR",
+      "pricePrecision": "4",
+      "minLotSize": 7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.3",
+      "maxPrice": "3"
+    },
+    {
+      "symbol1": "USDT",
+      "symbol2": "GBP",
+      "pricePrecision": "4",
+      "minLotSize": 7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.3",
+      "maxPrice": "3"
+    },
+    {
+      "symbol1": "USDT",
+      "symbol2": "RUB",
+      "pricePrecision": "2",
+      "minLotSize": 7,
+      "minLotSizeS2": 750,
+      "maxLotSize": null,
+      "minPrice": "10",
+      "maxPrice": "750"
+    },
+
+
+    {
+      "symbol1": "BCH",
+      "symbol2": "USDT",
+      "pricePrecision": "2",
+      "minLotSize": 0.02,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "30",
+      "maxPrice": "8192"
+    },
+    {
+      "symbol1": "LTC",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 0.08,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "7.72",
+      "maxPrice": "2048"
+    },
+    {
+      "symbol1": "XLM",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 32,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.03",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "OMG",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 1.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "TRX",
+      "symbol2": "USDT",
+      "pricePrecision": "5",
+      "minLotSize": 200,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0001",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "ONT",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 12,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "ONG",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 14.059612,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.001",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "ADA",
+      "symbol2": "USDT",
+      "pricePrecision": "6",
+      "minLotSize": 5.26,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0062",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "USDC",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.2019",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "WABI",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 41.202403,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "WABI",
+      "symbol2": "EUR",
+      "pricePrecision": "5",
+      "minLotSize": 41.202403,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "WABI",
+      "symbol2": "GBP",
+      "pricePrecision": "5",
+      "minLotSize": 41.202403,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "MATIC",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 9,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.001",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "MATIC",
+      "symbol2": "EUR",
+      "pricePrecision": "5",
+      "minLotSize": 9,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.001",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "MATIC",
+      "symbol2": "GBP",
+      "pricePrecision": "5",
+      "minLotSize": 9,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.001",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "MATIC",
+      "symbol2": "USDT",
+      "pricePrecision": "5",
+      "minLotSize": 9,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.001",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "LINK",
+      "symbol2": "USD",
+      "pricePrecision": "3",
+      "minLotSize": 0.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "LINK",
+      "symbol2": "EUR",
+      "pricePrecision": "3",
+      "minLotSize": 0.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "LINK",
+      "symbol2": "GBP",
+      "pricePrecision": "3",
+      "minLotSize": 0.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "MKR",
+      "symbol2": "USD",
+      "pricePrecision": "1",
+      "minLotSize": 0.002876,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "150",
+      "maxPrice": "15405.0"
+    },
+    {
+      "symbol1": "ZRX",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 10.939465,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.02",
+      "maxPrice": "65"
+    },
+    {
+      "symbol1": "ZRX",
+      "symbol2": "USDT",
+      "pricePrecision": "5",
+      "minLotSize": 15,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.02",
+      "maxPrice": "65"
+    },
+    {
+      "symbol1": "LAMB",
+      "symbol2": "USD",
+      "pricePrecision": "6",
+      "minLotSize": 523.881905,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.001",
+      "maxPrice": "1"
+    },
+    {
+      "symbol1": "LAMB",
+      "symbol2": "USDT",
+      "pricePrecision": "6",
+      "minLotSize": 523.881905,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.001",
+      "maxPrice": "1"
+    },
+    {
+      "symbol1": "HOT",
+      "symbol2": "USD",
+      "pricePrecision": "6",
+      "minLotSize": 1171.548117,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.003734",
+      "maxPrice": "0.041114"
+    },
+    {
+      "symbol1": "HOT",
+      "symbol2": "USDT",
+      "pricePrecision": "6",
+      "minLotSize": 1171.548117,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.003500",
+      "maxPrice": "0.044057"
+    },
+    {
+      "symbol1": "DASH",
+      "symbol2": "USDT",
+      "pricePrecision": "2",
+      "minLotSize": 0.065,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "15",
+      "maxPrice": "4096"
+    },
+    {
+      "symbol1": "NEO",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 0.240137,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "183.071"
+    },
+    {
+      "symbol1": "GAS",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 1.83727034,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "BAT",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 10,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.03",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "ATOM",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 1.2,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "XTZ",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 2.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "GUSD",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 8,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.2522",
+      "maxPrice": "2.2749"
+    },
+    {
+      "symbol1": "USDC",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0001",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "WABI",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 41.202403,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "LINK",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 0.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "DOT",
+      "symbol2": "USD",
+      "pricePrecision": "3",
+      "minLotSize": 0.438376,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.25",
+      "maxPrice": "180"
+    },
+    {
+      "symbol1": "DOT",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 0.438376,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.25",
+      "maxPrice": "180"
+    },
+    {
+      "symbol1": "COMP",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 0.026691,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "18",
+      "maxPrice": "1830"
+    },
+    {
+      "symbol1": "COMP",
+      "symbol2": "USDT",
+      "pricePrecision": "2",
+      "minLotSize": 0.02,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "18",
+      "maxPrice": "2378.99"
+    },
+    {
+      "symbol1": "ZIL",
+      "symbol2": "USD",
+      "pricePrecision": "6",
+      "minLotSize": 93.81491657,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.001",
+      "maxPrice": "2"
+    },
+    {
+      "symbol1": "ZIL",
+      "symbol2": "USDT",
+      "pricePrecision": "6",
+      "minLotSize": 93.81491657,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.001",
+      "maxPrice": "2"
+    },
+    {
+      "symbol1": "UNI",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 0.3,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "200"
+    },
+    {
+      "symbol1": "UNI",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 0.3,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "63.5699"
+    },
+    {
+      "symbol1": "UNI",
+      "symbol2": "ETH",
+      "pricePrecision": "6",
+      "minLotSize": 0.390773,
+      "minLotSizeS2": 0.003,
+      "maxLotSize": null,
+      "minPrice": "0.0001",
+      "maxPrice": "1"
+    },
+    {
+      "symbol1": "UMA",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 0.757575,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "1",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "UMA",
+      "symbol2": "USDT",
+      "pricePrecision": "2",
+      "minLotSize": 0.757575,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "1",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "YFI",
+      "symbol2": "USD",
+      "pricePrecision": "1",
+      "minLotSize": 0.0002,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "14000.3",
+      "maxPrice": "110497.4"
+    },
+    {
+      "symbol1": "YFI",
+      "symbol2": "USDT",
+      "pricePrecision": "1",
+      "minLotSize": 0.0002,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "16100.0",
+      "maxPrice": "155308.7"
+    },
+    {
+      "symbol1": "SNX",
+      "symbol2": "USD",
+      "pricePrecision": "3",
+      "minLotSize": 1.021897,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "40"
+    },
+    {
+      "symbol1": "SNX",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 1.021897,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "40"
+    },
+    {
+      "symbol1": "SNX",
+      "symbol2": "ETH",
+      "pricePrecision": "6",
+      "minLotSize": 1.021897,
+      "minLotSizeS2": 0.003,
+      "maxLotSize": null,
+      "minPrice": "0.001",
+      "maxPrice": "0.5"
+    },
+    {
+      "symbol1": "KNC",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 3.7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "KNC",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 3.7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "BAL",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 0.6,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "1",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "BAL",
+      "symbol2": "USDT",
+      "pricePrecision": "2",
+      "minLotSize": 0.6,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "1",
+      "maxPrice": "128.69"
+    },
+    {
+      "symbol1": "CRV",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 4.605263,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "CRV",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 4.605263,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "WBTC",
+      "symbol2": "USDT",
+      "pricePrecision": "1",
+      "minLotSize": 0.0002,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "1000",
+      "maxPrice": "128700.0"
+    },
+    {
+      "symbol1": "DAI",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "DAI",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "TUSD",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "26.0000"
+    },
+    {
+      "symbol1": "TUSD",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "MTA",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 8,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "MUSD",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "SUSHI",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 0.7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "80"
+    },
+    {
+      "symbol1": "SUSHI",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 0.7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "80"
+    },
+    {
+      "symbol1": "SUSHI",
+      "symbol2": "ETH",
+      "pricePrecision": "6",
+      "minLotSize": 0.7,
+      "minLotSizeS2": 0.003,
+      "maxLotSize": null,
+      "minPrice": "0.0001",
+      "maxPrice": "0.1"
+    },
+    {
+      "symbol1": "CREAM",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 0.2,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "10",
+      "maxPrice": "500"
+    },
+    {
+      "symbol1": "CREAM",
+      "symbol2": "USDT",
+      "pricePrecision": "2",
+      "minLotSize": 0.05,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "10",
+      "maxPrice": "500"
+    },
+    {
+      "symbol1": "YFII",
+      "symbol2": "USD",
+      "pricePrecision": "1",
+      "minLotSize": 0.004,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "500",
+      "maxPrice": "30000"
+    },
+    {
+      "symbol1": "YFII",
+      "symbol2": "USDT",
+      "pricePrecision": "1",
+      "minLotSize": 0.004,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "500",
+      "maxPrice": "30000"
+    },
+    {
+      "symbol1": "BUSD",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 10,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "BUSD",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 10,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "BUSD",
+      "symbol2": "ETH",
+      "pricePrecision": "6",
+      "minLotSize": 10,
+      "minLotSizeS2": 0.003,
+      "maxLotSize": null,
+      "minPrice": "0.0001",
+      "maxPrice": "0.1"
+    },
+    {
+      "symbol1": "REN",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 25,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "5"
+    },
+    {
+      "symbol1": "REN",
+      "symbol2": "USDT",
+      "pricePrecision": "5",
+      "minLotSize": 25,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "5"
+    },
+    {
+      "symbol1": "REN",
+      "symbol2": "ETH",
+      "pricePrecision": "6",
+      "minLotSize": 25,
+      "minLotSizeS2": 0.003,
+      "maxLotSize": null,
+      "minPrice": "0.00005",
+      "maxPrice": "0.01"
+    },
+    {
+      "symbol1": "BAND",
+      "symbol2": "USD",
+      "pricePrecision": "3",
+      "minLotSize": 1.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "BAND",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 1.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "100"
+    },
+    {
+      "symbol1": "AKRO",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 650,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.00035",
+      "maxPrice": "0.65000"
+    },
+    {
+      "symbol1": "AKRO",
+      "symbol2": "USDT",
+      "pricePrecision": "5",
+      "minLotSize": 298,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0005",
+      "maxPrice": "0.5"
+    },
+    {
+      "symbol1": "BNT",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 1.7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.08",
+      "maxPrice": "1124.185"
+    },
+    {
+      "symbol1": "ZAP",
+      "symbol2": "USDT",
+      "pricePrecision": "5",
+      "minLotSize": 140,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.005",
+      "maxPrice": "1"
+    },
+    {
+      "symbol1": "SRM",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 2.389078,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "18942.702"
+    },
+    {
+      "symbol1": "ANT",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 2.5,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "30"
+    },
+    {
+      "symbol1": "PAXG",
+      "symbol2": "USDT",
+      "pricePrecision": "1",
+      "minLotSize": 0.004,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "200",
+      "maxPrice": "15534.9"
+    },
+    {
+      "symbol1": "OCEAN",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 16,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "5"
+    },
+    {
+      "symbol1": "STORJ",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 11.002552,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.04",
+      "maxPrice": "8.7854"
+    },
+    {
+      "symbol1": "KAVA",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 1.8,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.2",
+      "maxPrice": "20"
+    },
+    {
+      "symbol1": "KSM",
+      "symbol2": "USDT",
+      "pricePrecision": "2",
+      "minLotSize": 0.032058,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "1",
+      "maxPrice": "9653.45"
+    },
+    {
+      "symbol1": "AAVE",
+      "symbol2": "USDT",
+      "pricePrecision": "2",
+      "minLotSize": 0.032172,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "50",
+      "maxPrice": "1578.19"
+    },
+    {
+      "symbol1": "REPV2",
+      "symbol2": "USDT",
+      "pricePrecision": "2",
+      "minLotSize": 0.6,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "1",
+      "maxPrice": "1264088.98"
+    },
+    {
+      "symbol1": "BCHA",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 0.4,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "2",
+      "maxPrice": "200"
+    },
+    {
+      "symbol1": "BNT",
+      "symbol2": "USD",
+      "pricePrecision": "3",
+      "minLotSize": 0.95,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "10"
+    },
+    {
+      "symbol1": "OCEAN",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 17.413325,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "28.5602"
+    },
+    {
+      "symbol1": "SRM",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 2.389078,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0700",
+      "maxPrice": "20.7870"
+    },
+    {
+      "symbol1": "KAVA",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 1.8,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.2",
+      "maxPrice": "15"
+    },
+    {
+      "symbol1": "STORJ",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 11.002552,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0350",
+      "maxPrice": "5.0697"
+    },
+    {
+      "symbol1": "GLM",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 24,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "1"
+    },
+    {
+      "symbol1": "GLM",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 24,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "1"
+    },
+    {
+      "symbol1": "GZIL",
+      "symbol2": "USDT",
+      "pricePrecision": "2",
+      "minLotSize": 0.085127,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "3",
+      "maxPrice": "1000"
+    },
+    {
+      "symbol1": "GZIL",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 0.085127,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "3",
+      "maxPrice": "1000"
+    },
+    {
+      "symbol1": "TON",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 19.886363,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "10"
+    },
+    {
+      "symbol1": "TON",
+      "symbol2": "USD",
+      "pricePrecision": "3",
+      "minLotSize": 19.886363,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "10"
+    },
+    {
+      "symbol1": "AWG",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 0.12,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "6",
+      "maxPrice": "600"
+    },
+    {
+      "symbol1": "FUN",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 309,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.001",
+      "maxPrice": "1"
+    },
+    {
+      "symbol1": "UTK",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 25,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "3"
+    },
+    {
+      "symbol1": "UTK",
+      "symbol2": "USDT",
+      "pricePrecision": "4",
+      "minLotSize": 25,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0070",
+      "maxPrice": "4.5627"
+    },
+    {
+      "symbol1": "USDC",
+      "symbol2": "EUR",
+      "pricePrecision": "4",
+      "minLotSize": 7,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "1INCH",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 2.3,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "RENBTC",
+      "symbol2": "USD",
+      "pricePrecision": "1",
+      "minLotSize": 0.00015,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "7000.0",
+      "maxPrice": "219700.0"
+    },
+    {
+      "symbol1": "RSR",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 216,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.005",
+      "maxPrice": "0.5"
+    },
+    {
+      "symbol1": "MANA",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 14.388341,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.0350",
+      "maxPrice": "3.1200"
+    },
+    {
+      "symbol1": "LRC",
+      "symbol2": "USD",
+      "pricePrecision": "3",
+      "minLotSize": 32.413109,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "5"
+    },
+    {
+      "symbol1": "DNT",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 53.393948,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "8.3200"
+    },
+    {
+      "symbol1": "CVC",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 38.051543,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.05",
+      "maxPrice": "5"
+    },
+    {
+      "symbol1": "XSGD",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 10,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "8"
+    },
+    {
+      "symbol1": "ZWAP",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 0.042504,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "147.00",
+      "maxPrice": "2250"
+    },
+    {
+      "symbol1": "BNB",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 0.02,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "30",
+      "maxPrice": "3000"
+    },
+    {
+      "symbol1": "HAPI",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 0.125268,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "10",
+      "maxPrice": "1000"
+    },
+    {
+      "symbol1": "AWX",
+      "symbol2": "USDT",
+      "pricePrecision": "3",
+      "minLotSize": 2,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.1",
+      "maxPrice": "39.000"
+    },
+    {
+      "symbol1": "COTI",
+      "symbol2": "USD",
+      "pricePrecision": "4",
+      "minLotSize": 45.403834,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "5"
+    },
+    {
+      "symbol1": "AWS",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 10,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "10"
+    },
+    {
+      "symbol1": "AAVE",
+      "symbol2": "USD",
+      "pricePrecision": "2",
+      "minLotSize": 0.032172,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "50",
+      "maxPrice": "3000"
+    },
+    {
+      "symbol1": "RENBTC",
+      "symbol2": "BTC",
+      "pricePrecision": "4",
+      "minLotSize": 0.000186,
+      "minLotSizeS2": 0.0004,
+      "maxLotSize": null,
+      "minPrice": "0.4200",
+      "maxPrice": "2.3400"
+    },
+    {
+      "symbol1": "WBTC",
+      "symbol2": "BTC",
+      "pricePrecision": "4",
+      "minLotSize": 0.000185,
+      "minLotSizeS2": 0.0004,
+      "maxLotSize": null,
+      "minPrice": "0.5",
+      "maxPrice": "2"
+    },
+    {
+      "symbol1": "TRX",
+      "symbol2": "GBP",
+      "pricePrecision": "5",
+      "minLotSize": 99.051931,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.01",
+      "maxPrice": "50"
+    },
+    {
+      "symbol1": "ZAP",
+      "symbol2": "USD",
+      "pricePrecision": "5",
+      "minLotSize": 139.837788,
+      "minLotSizeS2": 10,
+      "maxLotSize": null,
+      "minPrice": "0.00490",
+      "maxPrice": "10.39999"
+    }
+  ]
+}
